@@ -17,9 +17,9 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 |--------|---------------|
 | *coming soon* | |
 
-## Challenges Included
+# Challenges Included
 
-### Python
+## Python
 
 **Control Flow**
 - Restaurant rating system
@@ -49,6 +49,6 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 - Split the bill
 - DNA sequence search
 
-### JavaScript
+## JavaScript
 
 *Coming soon*
