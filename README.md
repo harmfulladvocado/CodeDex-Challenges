@@ -52,8 +52,3 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 ### JavaScript
 
 *Coming soon*
-
-## Notes
-
-Forked from [ZainabAlashoor/codedex-Challenges](https://github.com/ZainabAlashoor/codedex-Challenges).
-All challenges have been fixed, completed, and reorganized. Missing challenges added.
