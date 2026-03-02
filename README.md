@@ -58,21 +58,21 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 - Split_The_Ball.py
 - DNA.py
 
-### JavaScript
-
-**1. Conditionals**
-- Nite_Owl.js
-- Michelin_Stars.js
-- TGIF.js
-- Decades.js
-- Fitness_Routine.js
-
-**2. Loops**
-- Blast_Off.js
-- Swag_Raffle.js
-- Odd_Cubes.js
-- Dice_Doubles.js
-- Fibonacci_Sequence.js
+<details>
+  <summary>### JavaScript</summary>
+  **1. Conditionals**
+  - Nite_Owl.js
+  - Michelin_Stars.js
+  - TGIF.js
+  - Decades.js
+  - Fitness_Routine.js
+  
+  **2. Loops**
+  - Blast_Off.js
+  - Swag_Raffle.js
+  - Odd_Cubes.js
+  - Dice_Doubles.js
+  - Fibonacci_Sequence.js
 
 ### HTML
 
@@ -96,7 +96,3 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 
 See LICENSE.md for details.
 
-
-<details>
-  <summary>Click to expand</summary>
-  test
