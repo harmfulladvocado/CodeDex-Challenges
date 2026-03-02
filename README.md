@@ -5,50 +5,93 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 ## Structure
 
 ### Python
+
 | Folder | Topics Covered |
-|--------|---------------|
-| `Python Control Flow` | if/elif/else, conditionals, logical operators |
-| `Python Loops` | while loops, for loops, range() |
-| `Functions` | defining functions, parameters, return values |
-| `Lists` | list creation, indexing, loops, mutation |
+| --- | --- |
+| 1.Python Control Flow | if/elif/else, conditionals, logical operators |
+| 2.Python Loops | while loops, for loops, range() |
+| 3.Functions | defining functions, parameters, return values |
+| 4.Lists | list creation, indexing, loops, mutation |
 
 ### JavaScript
+
 | Folder | Topics Covered |
-|--------|---------------|
-| *coming soon* | |
+| --- | --- |
+| 1.Conditionals | if/else, comparison operators, logical operators |
+| 2.Loops | for loops, while loops, loop control |
 
-# Challenges Included
+### HTML
 
-## Python
+| Folder | Topics Covered |
+| --- | --- |
+| 1.Elements | semantic HTML, common tags, attributes |
+| 2.Structure | document structure, layout, organization |
 
-**Control Flow**
-- Restaurant rating system
-- High school grade classifier
-- Snapple fact randomizer
-- Season detector
-- Interplanetary weight converter
+## Challenges Included
 
-**Loops**
-- "Are we there yet?" while loop
-- New Year countdown
-- Snake eyes dice roller
-- Asterisk staircase
-- Sum of squares
+### Python
 
-**Functions**
-- James Bond greeter
-- Average number
-- KDA ratio
-- Moon phases
-- Dog years
+**1. Control Flow**
+- food_ratings.py
+- High_school_grades.py
+- Snapple_Facts.py
+- Seasons_of_the_Year.py
+- Planet_Weights.py
 
-**Lists**
-- Wishlist
-- Lottery numbers
-- Oscars Best Picture
-- Split the bill
-- DNA sequence search
+**2. Loops**
+- New_Year_Countdown.py
+- Snake_Eyes.py
+- Asterisks.py
+- Sum_of_Squares.py
 
-## JavaScript
+**3. Functions**
+- James_Bond.py
+- Average_Number.py
+- KDA_Ratio.py
+- Moon_Phases.py
+- Dog_Years.py
 
-*Coming soon*
+**4. Lists**
+- Wishlist.py
+- Lottery.py
+- The_Oscars.py
+- Split_The_Ball.py
+- DNA.py
+
+### JavaScript
+
+**1. Conditionals**
+- Nite_Owl.js
+- Michelin_Stars.js
+- TGIF.js
+- Decades.js
+- Fitness_Routine.js
+
+**2. Loops**
+- Blast_Off.js
+- Swag_Raffle.js
+- Odd_Cubes.js
+- Dice_Doubles.js
+- Fibonacci_Sequence.js
+
+### HTML
+
+**1. Elements**
+- Garage_Sale.html
+- Movie_Review.html
+- Packing_List.html
+- Map_Directions.html
+- Ramen_Restaurant.html
+- For_Rent.html
+
+**2. Structure**
+- Song_Lyrics.html
+- Metamorphosis.html
+- Best_Fan_Page.html
+- Messy_Closet.html
+- I_Spy.html
+- Julien's_Art_Mart.html
+
+## License
+
+See LICENSE.md for details.
