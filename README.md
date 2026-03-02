@@ -100,4 +100,4 @@ See LICENSE.md for details.
 <details>
   <summary>Click to expand</summary>
   test
-<details.>
+<details/>
