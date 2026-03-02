@@ -59,7 +59,8 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 - DNA.py
 
 <details>
-  <summary>### JavaScript</summary>
+  <summary><h3>JavaScript</h3></summary>
+  
   **1. Conditionals**
   - Nite_Owl.js
   - Michelin_Stars.js
@@ -73,6 +74,8 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
   - Odd_Cubes.js
   - Dice_Doubles.js
   - Fibonacci_Sequence.js
+  
+</details>
 
 ### HTML
 
