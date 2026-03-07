@@ -27,6 +27,12 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 | 1.Elements | semantic HTML, common tags, attributes |
 | 2.Structure | document structure, layout, organization |
 
+### Java
+
+| Folder | Topics Covered |
+| --- | --- |
+| 1. Control Flow | if/else statements, logical operators, conditional logic |
+
 ## Challenges Included
 
 <details>
@@ -101,6 +107,14 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 
 </details>
 
-## License
+<details>
+  <summary><h3>Java</h3></summary>
 
-See LICENSE.md for details.
+**1. Control Flow**
+- Girl_Scout_Cookies.java
+- Starbuck_Cups.java
+- Tip_Calculator.java
+- Work_Hours.java
+- Movie_Tickets.java
+
+</details>
