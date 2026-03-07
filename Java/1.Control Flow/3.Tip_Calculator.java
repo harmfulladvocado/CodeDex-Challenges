@@ -1,5 +1,5 @@
-#CURRENTLY BUGGED AND ISNT WORKING PROPERLY
-#THE UNTESTED CODE IS BELOW
+//CURRENTLY BUGGED AND ISNT WORKING PROPERLY
+//THE UNTESTED CODE IS BELOW
 public class CodeChallenge {
   public static void main(String[] args) {
     double subtotal = 96.82;
