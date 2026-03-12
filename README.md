@@ -1,120 +1,128 @@
 # Codedex Challenges
 
-Challenge solutions from [Codedex.io](https://www.codedex.io), organized by language and topic.
+Solutions to [Codedex.io](https://www.codedex.io) challenges, organized by language and topic.
 
-## Structure
+---
 
-### Python
+## Languages
 
-| Folder | Topics Covered |
-|--------|-----------------|
-| 1. Python Control Flow | if/elif/else, conditionals, logical operators |
-| 2. Python Loops | while loops, for loops, range() |
-| 3. Functions | defining functions, parameters, return values |
-| 4. Lists | list creation, indexing, loops, mutation |
+- [Python](#python)
+- [JavaScript](#javascript)
+- [HTML](#html)
+- [Java](#java)
 
-### JavaScript
+---
 
-| Folder | Topics Covered |
-|--------|-----------------|
-| 1. Conditionals | if/else, comparison operators, logical operators |
-| 2. Loops | for loops, while loops, loop control |
+## Python
 
-### HTML
+### Control Flow
+`if/elif/else` · conditionals · logical operators
 
-| Folder | Topics Covered |
-|--------|-----------------|
-| 1. Elements | semantic HTML, common tags, attributes |
-| 2. Structure | document structure, layout, organization |
+| File | Description |
+|------|-------------|
+| `food_ratings.py` | Rate foods using conditional logic |
+| `High_school_grades.py` | Grade classification with if/elif |
+| `Snapple_Facts.py` | Fun facts using boolean conditions |
+| `Seasons_of_the_Year.py` | Season detection by month |
+| `Planet_Weights.py` | Weight calculator across planets |
 
-### Java
+### Loops
+`while` · `for` · `range()`
 
-| Folder | Topics Covered |
-|--------|-----------------|
-| 1. Control Flow | if/else statements, logical operators, conditional logic |
+| File | Description |
+|------|-------------|
+| `New_Year_Countdown.py` | Countdown using a while loop |
+| `Snake_Eyes.py` | Dice roll simulation |
+| `Asterisks.py` | Pattern printing with nested loops |
+| `Sum_of_Squares.py` | Math series with for loop |
 
-## Challenges Included
+### Functions
+defining functions · parameters · return values
 
-<details>
-  <summary><h3>Python</h3></summary>
+| File | Description |
+|------|-------------|
+| `James_Bond.py` | Name formatter function |
+| `Average_Number.py` | Average calculator |
+| `KDA_Ratio.py` | Gaming stats calculator |
+| `Moon_Phases.py` | Moon phase lookup |
+| `Dog_Years.py` | Age converter |
 
-**1. Control Flow**
-- food_ratings.py
-- High_school_grades.py
-- Snapple_Facts.py
-- Seasons_of_the_Year.py
-- Planet_Weights.py
+### Lists
+list creation · indexing · mutation · loops
 
-**2. Loops**
-- New_Year_Countdown.py
-- Snake_Eyes.py
-- Asterisks.py
-- Sum_of_Squares.py
+| File | Description |
+|------|-------------|
+| `Wishlist.py` | Build and display a wishlist |
+| `Lottery.py` | Random number picker |
+| `The_Oscars.py` | Award list manipulation |
+| `Split_The_Ball.py` | List splitting logic |
+| `DNA.py` | DNA strand operations |
 
-**3. Functions**
-- James_Bond.py
-- Average_Number.py
-- KDA_Ratio.py
-- Moon_Phases.py
-- Dog_Years.py
+---
 
-**4. Lists**
-- Wishlist.py
-- Lottery.py
-- The_Oscars.py
-- Split_The_Ball.py
-- DNA.py
+## JavaScript
 
-</details>
+### Conditionals
+`if/else` · comparison operators · logical operators
 
-<details>
-  <summary><h3>JavaScript</h3></summary>
+| File | Description |
+|------|-------------|
+| `Nite_Owl.js` | Time-based conditionals |
+| `Michelin_Stars.js` | Restaurant rating logic |
+| `TGIF.js` | Day-of-week checker |
+| `Decades.js` | Decade classifier by year |
+| `Fitness_Routine.js` | Workout selector |
 
-**1. Conditionals**
-- Nite_Owl.js
-- Michelin_Stars.js
-- TGIF.js
-- Decades.js
-- Fitness_Routine.js
+### Loops
+`for` · `while` · loop control
 
-**2. Loops**
-- Blast_Off.js
-- Swag_Raffle.js
-- Odd_Cubes.js
-- Dice_Doubles.js
-- Fibonacci_Sequence.js
+| File | Description |
+|------|-------------|
+| `Blast_Off.js` | Rocket countdown |
+| `Swag_Raffle.js` | Random winner picker |
+| `Odd_Cubes.js` | Odd number cubes |
+| `Dice_Doubles.js` | Roll until doubles |
+| `Fibonacci_Sequence.js` | Fibonacci generator |
 
-</details>
+---
 
-<details>
-  <summary><h3>HTML</h3></summary>
+## HTML
 
-**1. Elements**
-- Garage_Sale.html
-- Movie_Review.html
-- Packing_List.html
-- Map_Directions.html
-- Ramen_Restaurant.html
-- For_Rent.html
+### Elements
+semantic HTML · common tags · attributes
 
-**2. Structure**
-- Song_Lyrics.html
-- Metamorphosis.html
-- Best_Fan_Page.html
-- Messy_Closet.html
-- I_Spy.html
-- Julien's_Art_Mart.html
+| File | Description |
+|------|-------------|
+| `Garage_Sale.html` | Sale listing page |
+| `Movie_Review.html` | Structured review layout |
+| `Packing_List.html` | Ordered/unordered lists |
+| `Map_Directions.html` | Directions with landmarks |
+| `Ramen_Restaurant.html` | Restaurant info page |
+| `For_Rent.html` | Rental listing markup |
 
-</details>
+### Structure
+document structure · layout · organization
 
-<details>
-  <summary><h3>Java</h3></summary>
+| File | Description |
+|------|-------------|
+| `Song_Lyrics.html` | Formatted lyrics page |
+| `Metamorphosis.html` | Book excerpt layout |
+| `Best_Fan_Page.html` | Fan site structure |
+| `Messy_Closet.html` | Reorganized nested lists |
+| `I_Spy.html` | Visual scavenger hunt |
+| `Julien's_Art_Mart.html` | Art gallery page |
 
-**1. Control Flow**
-- Girl_Scout_Cookies.java
-- Starbuck_Cups.java
-- Tip_Calculator.java
-- Work_Hours.java
-- Movie_Tickets.java
+---
 
-</details>
+## Java
+
+### Control Flow
+`if/else` · logical operators · conditional logic
+
+| File | Description |
+|------|-------------|
+| `Girl_Scout_Cookies.java` | Cookie order calculator |
+| `Starbuck_Cups.java` | Cup size selector |
+| `Tip_Calculator.java` | Tip percentage logic |
+| `Work_Hours.java` | Overtime checker |
+| `Movie_Tickets.java` | Age-based ticket pricing |
